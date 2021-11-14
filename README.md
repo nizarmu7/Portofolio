@@ -2,7 +2,7 @@
 
 ## M Nizar Miftahul
 
-## [Website Link](https://nizarmu7.github.io/Portofolio/) 🔗
+### [Website Link](https://nizarmu7.github.io/Portofolio/) 🔗
 
 <div align="center">
   <img src="assets/png/demo-ss.png" alt="SS" width="100%" />
@@ -12,8 +12,7 @@
 <br/>
 <br/>
 
-## Special Thanks ❤️
-
+### Special Thanks ❤️
 Template by [Dopefolio](https://github.com/rammcodes/Dopefolio)
 <br>
 
