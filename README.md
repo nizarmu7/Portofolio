@@ -12,8 +12,8 @@
 <br/>
 <br/>
 
-### Special Thanks ❤️
-Template by [Dopefolio](https://github.com/rammcodes/Dopefolio)
+### Template by
+[Dopefolio](https://github.com/rammcodes/Dopefolio)
 <br>
 
 ---
